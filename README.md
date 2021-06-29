@@ -1,4 +1,11 @@
 # MeteoApp - Raices.info
+<p align="center">
+  <br/>
+  <img src=MeteoApp-Raices.info.png alt="WK">
+  <br/>
+  <br/>
+  <em>Weather App for https://raices.info</em>
+</p>
 
 
 ## Table of contents
